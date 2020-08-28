@@ -4,7 +4,7 @@ email: this_is_my_email@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Great space for awesome things, but it's all coming to a close.
   Watch your back.
-
+theme: minima
 # social links
 twitter_username: myjunkisfunk # DO NOT include the @ character, or else the build will fail!
 github_username:  jayamys # DO NOT include the @ character, or else the build will fail!
